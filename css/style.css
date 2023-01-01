@@ -1,3 +1,16 @@
 header.masthead{
     background: url("../images/masthead_bg.png");
+    color: white;
 }
+
+.btn-outline {
+    color: white;
+    border: 1px solid;
+    border-color: white;
+  }
+  
+  .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
+    color: white;
+    border-color: rgba(237, 209, 27, 0.877);
+    background-color: rgba(237, 209, 27, 0.877)
+  }
