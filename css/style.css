@@ -1,4 +1,4 @@
-header.masthead{
+header.masthead {
     background: url("../images/masthead_bg.png");
     color: white;
 }
@@ -13,4 +13,10 @@ header.masthead{
     color: white;
     border-color: rgba(237, 209, 27, 0.877);
     background-color: rgba(237, 209, 27, 0.877)
+  }
+  .skills_banner{
+    background: url("../images/masthead_bg.png");
+  }
+  #skills_title{
+    color: white;
   }
